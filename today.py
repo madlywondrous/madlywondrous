@@ -286,12 +286,10 @@ def justify_format(root, element_id, new_text, length=0):
     if element is not None:
         element.text = new_text
 
-    just_len = max(0, length - len(new_text))
-    dot_string = {0: '', 1: ' ', 2: '. '}.get(just_len, ' ' + ('.' * just_len) + ' ')
-    
+    # Clear out any dynamic dots since the design handles spacing manually
     element_dots = root.find(f".//*[@id='{element_id}_dots']")
     if element_dots is not None:
-        element_dots.text = dot_string
+        element_dots.text = ""
 
 def commit_counter(comment_size):
     """ Count cached commits. """
