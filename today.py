@@ -369,3 +369,16 @@ if __name__ == '__main__':
     print('Total GitHub API calls:', '{:>3}'.format(sum(QUERY_COUNT.values())))
     for funct_name, count in QUERY_COUNT.items(): 
         print('{:<28}'.format('   ' + funct_name + ':'), '{:>6}'.format(count))
+
+    # Update README.md to bust GitHub's camo cache
+    import re
+    timestamp = int(time.time())
+    with open('README.md', 'r') as f:
+        readme_content = f.read()
+    
+    # Replace URLs to use cache busters
+    readme_content = re.sub(r'dark_mode\.svg(\?v=\d+)?', f'dark_mode.svg?v={timestamp}', readme_content)
+    readme_content = re.sub(r'light_mode\.svg(\?v=\d+)?', f'light_mode.svg?v={timestamp}', readme_content)
+    
+    with open('README.md', 'w') as f:
+        f.write(readme_content)
