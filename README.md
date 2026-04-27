@@ -1,6 +1,6 @@
 <a href="https://github.com/madlywondrous/madlywondrous">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=1777183466">
-    <img alt="Ayushh's GitHub Profile README" src="light_mode.svg?v=1777183466">
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=1777271130">
+    <img alt="Ayushh's GitHub Profile README" src="light_mode.svg?v=1777271130">
   </picture>
 </a>
