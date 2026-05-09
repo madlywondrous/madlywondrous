@@ -5,5 +5,5 @@
   </picture>
 </a>
 
-    ---
-    ![ASCII wave animation](assets/ascii-wave.gif)
+---
+![ASCII wave animation](https://raw.githubusercontent.com/madlywondrous/madlywondrous/main/assets/ascii-wave.gif)
