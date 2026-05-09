@@ -4,3 +4,13 @@
     <img alt="Ayushh's GitHub Profile README" src="light_mode.svg?v=1778219671">
   </picture>
 </a>
+
+    ---
+
+    ## ASCII Wave Demo
+
+    This animation was created in TypeScript for my portfolio website — demo below.
+
+    ![ASCII wave animation](assets/ascii-wave.gif)
+
+    If you'd like, I can add the actual `ascii-wave.gif` file to `assets/` for you (place the GIF at `assets/ascii-wave.gif`).
