@@ -8,3 +8,14 @@
     <img alt="Portfolio" src="assets/icon-profile.svg" width="33" height="33" />
   </a>
 </p>
+
+---
+
+## GitHub Profile
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <img alt="GitHub Profile Stats" src="light_mode.svg">
+</picture>
+
+---
