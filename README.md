@@ -5,6 +5,8 @@
   <img alt="GitHub Profile Stats" src="light_mode.svg?v=1778310446">
 </picture>
 
+<p></p>
+
 <p align="left">
   <a href="https://x.com/madlywondrous">
     <img alt="X" src="assets/icon-x.svg" width="33" height="33" />
