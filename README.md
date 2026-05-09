@@ -9,13 +9,7 @@
   </a>
 </p>
 
----
-
-## GitHub Profile
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=1778309505">
   <img alt="GitHub Profile Stats" src="light_mode.svg?v=1778309505">
 </picture>
-
----
