@@ -1,1 +1,1 @@
-# Accept the abnormal and make it normal.
+# Accept the abnormal and make it normal
