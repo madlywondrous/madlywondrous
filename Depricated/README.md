@@ -1,10 +1,8 @@
-### Accept the abnormal and make it normal.
-
 ![ASCII wave animation](https://raw.githubusercontent.com/madlywondrous/madlywondrous/main/assets/ascii-wave.gif)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=1778310825">
-  <img alt="GitHub Profile Stats" src="light_mode.svg?v=1778310825">
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=1778310446">
+  <img alt="GitHub Profile Stats" src="light_mode.svg?v=1778310446">
 </picture>
 
 <p></p>
